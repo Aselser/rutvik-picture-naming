@@ -1,0 +1,6 @@
+If the object in the image is 'banana', avoid saying
+'umm... banana' or 'err... banana'
+and just say
+'banana'
+
+Press Space to proceed

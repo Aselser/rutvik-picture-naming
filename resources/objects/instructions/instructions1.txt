@@ -1,0 +1,5 @@
+Welcome.  You will see some pictures of objects
+
+Please try your best to name the object in the image aloud.
+
+Press Space to continue.

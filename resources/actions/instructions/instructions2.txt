@@ -1,0 +1,4 @@
+If the action in the image is 'magnify', avoid saying
+'umm... magnify' or 'err... magnify'
+and just say
+'magnify'
